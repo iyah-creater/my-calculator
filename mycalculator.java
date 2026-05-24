@@ -43,6 +43,5 @@ import java.util.Scanner;
                     default:
                         System.out.println("Invalid sign");
             }
-                //input.close();
         }
     }
